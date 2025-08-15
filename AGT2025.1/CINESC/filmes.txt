@@ -1,0 +1,50 @@
+Matrix,Acao|Ficcao,4.7,1999,16,Keanu Reeves|Carrie-Anne Moss,Um hacker descobre a verdade.,Longa-metragem
+O Poderoso Chefao,Drama|Crime,4.9,1972,18,Marlon Brando|Al Pacino,A historia da familia mafiosa Corleone.,Longa-metragem
+Toy Story,Animacao|Comedia,4.5,1995,0,Tom Hanks|Tim Allen,Brinquedos ganham vida quando os humanos nao estao por perto.,Longa-metragem
+A Chegada,Ficcao|Drama,4.6,2016,12,Amy Adams|Jeremy Renner,Uma linguista tenta se comunicar com alienigenas.,Longa-metragem
+Cidade de Deus,Crime|Drama,4.8,2002,18,Alexandre Rodrigues|Leandro Firmino,Violencia e sobrevivencia numa favela carioca.,Longa-metragem
+O Fabuloso Destino de Amelie Poulain,Romance|Comedia,4.3,2001,12,Audrey Tautou|Mathieu Kassovitz,Uma jovem transforma a vida das pessoas a sua volta.,Longa-metragem
+A Viagem de Chihiro,Animacao|Fantasia,4.7,2001,10,Rumi Hiiragi|Miyu Irino,Garota entra em mundo magico e tenta salvar os pais.,Longa-metragem
+Whiplash,Drama|Musical,4.7,2014,16,Miles Teller|J.K. Simmons,Jovem baterista e levado ao limite por seu professor.,Longa-metragem
+Corra!,Suspense|Terror,4.4,2017,14,Daniel Kaluuya|Allison Williams,Jovem negro visita a familia da namorada e percebe algo errado.,Longa-metragem
+A Bruxa,Terror|Drama,4.1,2015,16,Anya Taylor-Joy|Ralph Ineson,Familia enfrenta forcas sinistras no seculo XVII.,Longa-metragem
+O Rei Leao,Animacao|Aventura,4.5,1994,0,Matthew Broderick|James Earl Jones,Jovem leao precisa recuperar seu trono.,Longa-metragem
+Curtindo a Vida Adoidado,Comedia|Aventura,4.6,1986,12,Matthew Broderick|Alan Ruck,Estudante decide faltar a escola e viver um dia inesquecivel.,Longa-metragem
+A Casa Monstro,Animacao|Terror,4.0,2006,10,Mitchel Musso|Sam Lerner,Criancas investigam uma casa mal-assombrada.,Longa-metragem
+Shrek,Animacao|Comedia,4.4,2001,0,Mike Myers|Eddie Murphy,Ogro embarca em missao para resgatar uma princesa.,Longa-metragem
+Antes do Amanhecer,Romance|Drama,4.5,1995,14,Ethan Hawke|Julie Delpy,Casal se conhece em uma viagem e passa uma noite juntos.,Longa-metragem
+The Office,Comedia|Serie,4.8,2005,12,Steve Carell|John Krasinski,Serie sobre o cotidiano hilariante de um escritorio.,Serie
+Black Mirror,Ficcao|Suspense,4.7,2011,16,Variado,Episodios independentes sobre tecnologia e sociedade.,Serie
+Frozen,Animacao|Musical,4.3,2013,0,Idina Menzel|Kristen Bell,Princesa enfrenta poderes magicos e salva o reino.,Longa-metragem
+A Incrivel Jornada,Drama|Aventura,4.2,1993,0,Don Ameche|Sally Field,Dois caes e um gato cruzam a floresta para reencontrar seus donos.,Longa-metragem
+O Menino e o Mundo,Animacao|Fantasia,4.1,2013,0,Varies,Garoto embarca em jornada visual pelo Brasil.,Curta-metragem
+Ilha das Flores,Documentario|Curta,4.7,1989,0,Varies,Uma satira sobre consumo, desigualdade e destino do lixo.,Curta-metragem
+A Voz Humana,Drama|Curta,4.0,2020,16,Tilda Swinton,Mulher lida com abandono em monologo emocionante.,Curta-metragem
+Marcha dos Pinguins,Documentario|Aventura,4.3,2005,0,Morgan Freeman,Narracao da jornada dos pinguins imperadores.,Longa-metragem
+Sonic 2,Aventura|Comedia,4.1,2022,10,Ben Schwartz|Idris Elba,Heroi veloz enfrenta o vilao Robotnik.,Longa-metragem
+Barbie,Fantasia|Comedia,4.4,2023,12,Margot Robbie|Ryan Gosling,Barbie explora o mundo real para descobrir seu proposito.,Longa-metragem
+O Senhor dos Aneis: A Sociedade do Anel,Aventura|Fantasia,4.9,2001,12,Elijah Wood|Ian McKellen,Grupo parte em jornada para destruir anel do poder.,Longa-metragem
+Interestelar,Ficcao|Drama,4.8,2014,12,Matthew McConaughey|Anne Hathaway,Equipe viaja por buraco de minhoca em busca de novo lar para a humanidade.,Longa-metragem
+Clube da Luta,Drama|Suspense,4.7,1999,18,Brad Pitt|Edward Norton,Homen descobre alter ego radical e funda clube secreto.,Longa-metragem
+Parasita,Drama|Suspense,4.8,2019,16,Song Kang-ho|Choi Woo-shik,Familia pobre se infiltra na casa de ricos com consequencias inesperadas.,Longa-metragem
+O Grande Hotel Budapeste,Comedia|Crime,4.6,2014,14,Ralph Fiennes|Tony Revolori,Concierge e jovem empregado se envolvem em confusao durante guerra.,Longa-metragem
+Gravidade,Ficcao|Suspense,4.4,2013,12,Sandra Bullock|George Clooney,Astronautas lutam para sobreviver apos acidente no espaco.,Longa-metragem
+Pantera Negra,Acao|Aventura,4.5,2018,12,Chadwick Boseman|Michael B. Jordan,Rei de nação africana deve proteger seu povo e legado.,Longa-metragem
+A Lista de Schindler,Drama|Historico,4.9,1993,16,Liam Neeson|Ralph Fiennes,Homem salva centenas de judeus durante o Holocausto.,Longa-metragem
+Her,Romance|Ficcao,4.6,2013,14,Joaquin Phoenix|Scarlett Johansson,Homen se apaixona por sistema operacional com IA.,Longa-metragem
+Stranger Things,Ficcao|Terror,4.8,2016,14,Millie Bobby Brown|Finn Wolfhard,Criancas enfrentam forcas sobrenaturais em cidade dos anos 80.,Serie
+Narcos,Crime|Drama,4.7,2015,18,Wagner Moura|Pedro Pascal,Serie sobre a ascensao e queda de Pablo Escobar.,Serie
+Coco,Animacao|Musical,4.6,2017,0,Anthony Gonzalez|Gael Garcia Bernal,Garoto viaja ao mundo dos mortos para descobrir historia da familia.,Longa-metragem
+O Jogo da Imitação,Biografia|Drama,4.5,2014,12,Benedict Cumberbatch|Keira Knightley,Matematico decifra codigo nazista e muda os rumos da guerra.,Longa-metragem
+O Show de Truman,Drama|Ficcao,4.6,1998,12,Jim Carrey|Laura Linney,Homen descobre que toda sua vida é um programa de TV.,Longa-metragem
+O Labirinto do Fauno,Fantasia|Drama,4.7,2006,16,Ivana Baquero|Sergi López,Garota se refugia em mundo magico durante guerra civil.,Longa-metragem
+Homem-Aranha no Aranhaverso,Animacao|Acao,4.6,2018,10,Shameik Moore|Jake Johnson,Adolescente assume o manto de heroi em universo paralelo.,Longa-metragem
+Duna,Ficcao|Aventura,4.5,2021,14,Timothée Chalamet|Rebecca Ferguson,Herdeiro de nobre casa luta por sobrevivencia em planeta hostil.,Longa-metragem
+Inside Out (Divertida Mente),Animacao|Drama,4.5,2015,0,Amy Poehler|Phyllis Smith,Emocoes de garota tentam manter equilibrio durante mudanca.,Longa-metragem
+Drive,Crime|Suspense,4.4,2011,16,Ryan Gosling|Carey Mulligan,Motorista habilidoso se envolve em assalto que da errado.,Longa-metragem
+Os Incriveis,Animacao|Acao,4.5,2004,0,Craig T. Nelson|Holly Hunter,Familia de super-herois tenta viver vida normal.,Longa-metragem
+Donnie Darko,Suspense|Ficcao,4.3,2001,16,Jake Gyllenhaal|Jena Malone,Adolescente perturbado tem visões de coelho e eventos estranhos.,Longa-metragem
+O Jogo da Morte,Reality|Suspense,4.0,2010,16,Variado,Experimento mostra o poder da autoridade em game show ficticio.,Documentario
+O Castelo Animado,Animacao|Fantasia,4.6,2004,10,Chieko Baisho|Takuya Kimura,Jovem amaldiçoada busca ajuda de misterioso mago.,Longa-metragem
+BoJack Horseman,Animacao|Drama,4.7,2014,16,Will Arnett|Amy Sedaris,Ex-estrela decadente tenta lidar com depressao e fama.,Serie
+Moonlight,Drama|Romance,4.4,2016,16,Trevante Rhodes|Ashton Sanders,Jovem negro luta para entender sua identidade e sexualidade.,Longa-metragem
