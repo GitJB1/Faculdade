@@ -14,7 +14,7 @@ Calcular a maior distância
 
 int fat(int n);
 
-void main(){
+int main(){
     srand(time(NULL));
 
     // Pergunta quantos pontos vão ser gerados:
@@ -51,7 +51,12 @@ void main(){
     float menor_distancia = 2000000000000;
     for(int i = 0; i < numero_pontos; i++){
         for(int j = i + 1; j < numero_pontos; j++){
-            distancia_entre_pontos[contador] =  sqrt(pow(x[j] - x[i],2) + pow(y[j] - y[i],2) + pow(z[j] - z[i],2));
+            distancia_entre_pontos[contador] =
+            sqrt(
+                pow(x[j] - x[i],2) +
+                pow(y[j] - y[i],2) +
+                pow(z[j] - z[i],2));
+                
             printf("(%d)<%d><%d>: %f\n",(contador+1), (i+1), (j+1), distancia_entre_pontos[contador]);
             if(distancia_entre_pontos[contador] > maior_distancia){
                 maior_distancia = distancia_entre_pontos[contador];
@@ -70,7 +75,7 @@ void main(){
     printf("Menor distância: %f\n", menor_distancia);
 
 
-
+    return 0;
 
 }
 
