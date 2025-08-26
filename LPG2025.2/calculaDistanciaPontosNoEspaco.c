@@ -70,7 +70,8 @@ int main(){
 
 
     //Imprime a mensagem final na tela
-    printf("\n===================================\nNúmero de combinações: %d\n", numero_combinacoes);
+    printf("\n===================================\n");
+    printf("Número de combinações: %d\n", numero_combinacoes);
     printf("Maior distância: %f\n", maior_distancia);
     printf("Menor distância: %f\n", menor_distancia);
 
